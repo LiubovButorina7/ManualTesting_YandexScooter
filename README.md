@@ -1,1 +1,27 @@
-# ManualTesting_YandexScooter
+## Цель проекта:
+
+- протестировать приложение Яндекс Самокат вручную
+
+## **Задачи проекта:**
+
+1. Протестировать веб-приложение Яндекс Самокат:
+
+- Требования к веб-приложению <https://docs.google.com/document/d/1peAUFCm-Xr9miJ-YRCQjRMekcuU1_qbHAC2dm3PFK_I/edit?tab=t.0#heading=h.uwghzsu8i2st>
+-  Макеты [лежат в Figma](https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web) <https://www.figma.com/design/vHgTVzFac8zyxhMZ2o4b2m/web?node-id=0-1&p=f>
+- Составить чек-лист по требованиям к экрану «Статус заказа»;
+- Для экрана «Сделать заказ» составить проверки на валидацию полей;
+- Провести тестирование всей функциональности не только по получившимся чек-листам и таблицам, но и по остальным макетам и требованиям. Проверять главную страницу (лендинг) не нужно.
+
+
+2\. Спроектировать тест-кейсы к мобильному приложению Яндекс Самокат:
+
+- Требования к мобильному приложению <https://code.s3.yandex.net/qa/files/requirements_mob_app.pdf>
+- Макеты к мобильному приложению <https://www.figma.com/design/kqLqPvSvjLVLomkdadkAnk/mobile?node-id=0-1&p=f>
+- Необходимо составить тесты на функциональность, выделенную жирным шрифтом, также и на вёрстку по макетам к этой функциональности.
+
+
+## Выполнение проекта:
+
+**Чек-листы, тест-кейсы, данные валидации, баг-репорты** <https://docs.google.com/spreadsheets/d/1G44UHaoVNh1dNeV7oXzKqF3d2pKai-lFe22WWmcWx1c/edit?usp=sharing>
+
+
